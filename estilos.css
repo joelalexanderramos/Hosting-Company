@@ -201,3 +201,48 @@ span.anio {
   display: flex;
   justify-content: space-around;
 }
+
+#pricing .tabla {
+  background: #fff;
+  border-radius: 24px;
+  box-shadow: 0px 90px 160px 0px rgba(0,0,0,0.1);
+  padding: 20px 59px;
+}
+
+#pricing ul {
+  padding: 0;
+}
+
+#pricing .tabla li:nth-child(1) {
+  font-family: 'Rubbik';
+  color: #ff8f00;
+  list-style: none;
+  margin-bottom: 20px;
+  font-size: 18px;
+  font-weight: bold;
+  margin-left: -21px;
+}
+
+#pricing .tabla .dolar {
+  position: absolute;
+  color: #999;
+  font-size: 18px;
+
+}
+
+#pricing .tabla .numero {
+  font-family: 'Rubbik';
+  font-weight: bold;
+  font-size: 50px;
+  margin-left: 14px;
+}
+
+#pricing .mes {
+  color: #999;
+}
+
+#pricing .tabla li:nth-child(2) {
+  list-style: none;
+  margin-bottom: 48px;
+  margin-left: -21px;
+}
