@@ -246,3 +246,59 @@ span.anio {
   margin-bottom: 48px;
   margin-left: -21px;
 }
+
+#pricing .item {
+  color: #ff8f00;
+  margin-bottom: 27px;
+}
+
+#pricing #two .item {
+  color: #296ffa;
+}
+
+#pricing .item span {
+  color: #666;
+}
+
+#pricing #three .item {
+  color: #2ACFBD;
+}
+
+#pricing #one a {
+  color: #ff8f00;
+  background: rgba(255,143,0,0.1);
+}
+
+#pricing #two li:nth-child(1) {
+  color: #296ffa;
+}
+
+#pricing #three li:nth-child(1) {
+  color: #2ACF8D;
+}
+
+#pricing #three a {
+  color: #29cf8d;
+  background: rgba(41,207,141,0.1);
+}
+
+#pricing #two a {
+  color: #fff;
+  background: #296ffa;
+}
+
+#pricing .hidden {
+  color: #ccc;
+}
+
+#pricing .tabla {
+  position: relative;
+}
+
+#pricing hr {
+  position: absolute;
+  top:150px;
+  left: 0;
+  width: 100%;
+  border-color: #2423230d;
+}
